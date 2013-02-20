@@ -1,4 +1,5 @@
-open-source-intro
-=================
+# Becoming an Open Source JavaScript Hipster
 
-An introduction to becoming an open source JavaScript hipster
+We are again walking through basics of a w
+
+The slides are located right [here](http://yycjs.com/open-source-intro).
