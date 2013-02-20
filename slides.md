@@ -22,10 +22,19 @@
 
 ---
 
+## Introduce Give a Mile
+
+---
+
 ## Basic Web Stack (Dave)
 
 * HTML, CSS, JavaScript, Server
 * Diagram
+
+---
+
+## Awesome Mustaches (Dave)
+* As promised, awesome hipster staches
 
 ---
 
@@ -78,6 +87,11 @@ Live Demo!
 
 ---
 
+## Fixies (Mike)
+* Maybe a plug for bike bike as well
+
+---
+
 ## Recap (Eric)
 
 * We have an idea!
@@ -93,6 +107,10 @@ Live Demo!
 * Some new tags (ex. number, email, date)
 * New APIs. They are just JavaScript!
 * Can do some crazy stuff with these API's that we'll look at later in the year
+
+---
+
+## Appropriate Hipster Attire (Eric)
 
 ---
 
@@ -170,4 +188,14 @@ __Markup__
 
 ---
 
-# Thank you
+## Contributing to Open Source (Dave)
+* Anyone can do it
+* It can be as minor as fixing typos
+
+---
+
+## Next Month
+
+* Templates, build tools, and more jQuery!
+
+---
