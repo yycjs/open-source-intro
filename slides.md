@@ -22,14 +22,23 @@
 
 ---
 
-## Basic Web Stack
+## Introduce Give a Mile
+
+---
+
+## Basic Web Stack (Dave)
 
 * HTML, CSS, JavaScript, Server
 * Diagram
 
 ---
 
-## What do I need to get Started?
+## Awesome Mustaches (Dave)
+* As promised, awesome hipster staches
+
+---
+
+## What do I need to get Started? (Dave)
 
 ---
 
@@ -65,7 +74,7 @@
 
 ---
 
-## Version Control!!
+## Version Control!! (Mike)
 
 * What? Why? (Even non-devs can use this)
 * Distributed (SVN) vs. Centralized (Git)
@@ -73,7 +82,7 @@
 
 ---
 
-## Github FTW
+## Github FTW (Mike)
 
 Live Demo!
 
@@ -85,21 +94,26 @@ Live Demo!
 
 ---
 
-## Git for Noobs
+## Git for Noobs (Mike or Eric)
 
 * Github for Mac
 * Github for Windows
 
 ---
 
-## More Developer Focused Git
+## More Developer Focused Git (Mike)
 
 * Source Tree (slightly less noobish)
 * Command line (for neckbeards)
 
 ---
 
-## Recap
+## Fixies (Mike)
+* Maybe a plug for bike bike as well
+
+---
+
+## Recap (Eric)
 
 * We have an idea!
 * We have a text editor!
@@ -108,7 +122,7 @@ Live Demo!
 
 ---
 
-## HTML 5
+## HTML 5 (Eric)
 
 * It pretty much the same as old HTML!
 * Some new tags (ex. number, email, date)
@@ -117,7 +131,11 @@ Live Demo!
 
 ---
 
-## CSS
+## Appropriate Hipster Attire (Eric)
+
+---
+
+## CSS (Eric)
 
 * CSS 3 is the new kid on the block
 * Again some new things but it's still CSS
@@ -125,7 +143,7 @@ Live Demo!
 
 ---
 
-## Twitter Bootstrap
+## Twitter Bootstrap (Eric)
 
 * A CSS Framework
 * Brought easy and pretty UI to developers
@@ -136,7 +154,7 @@ Live Demo!
 
 ---
 
-## JavaScript
+## JavaScript (Dave)
 
 * It is the programming language of the web (and our favourite)
 * This makes your app work and your website fancy!
@@ -144,20 +162,20 @@ Live Demo!
 
 ---
 
-## JavaScript in the browser
+## JavaScript in the browser (Dave)
 
 ![Overview](images/overview.png) (put a new image in)
 
 ---
 
-## The DOM
+## The DOM (Dave)
 
 * It isn't as ominous as it sounds
 * The internal representation of your HTML
 
 ---
 
-## jQuery
+## jQuery (Dave)
 
 * Simplifies DOM manipulation, traversal and event handling
 * AJAX support
@@ -170,7 +188,7 @@ Live Demo!
 
 ---
 
-## jQuery - Example
+## jQuery - Example (Dave)
 
 __jQuery__
 
@@ -191,4 +209,14 @@ __Markup__
 
 ---
 
-# Thank you
+## Contributing to Open Source (Dave)
+* Anyone can do it
+* It can be as minor as fixing typos
+
+---
+
+## Next Month
+
+* Templates, build tools, and more jQuery!
+
+---
