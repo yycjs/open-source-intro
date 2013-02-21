@@ -2,27 +2,24 @@
 
 ---
 
+## Our Presenters
+
 ## David Luecke
 
-* GitHub: [daffl.github.com](http://daffl.github.com)
-
-* Twitter: [@daffl](http://twitter.com/daffl)
+* GitHub: [daffl.github.com](http://daffl.github.com), Twitter: [@daffl](http://twitter.com/daffl)
 
 ## Eric Kryski
 
-* GitHub: [ekryski.github.com](http://ekryski.github.com)
-
-* Twitter: [@ekryski](http://twitter.com/ekryski)
+* GitHub: [ekryski.github.com](http://ekryski.github.com), Twitter: [@ekryski](http://twitter.com/ekryski)
 
 ## Mike Warren
 
-* GitHub: [meejah.github.com](http://mejah.github.com)
-
-* Twitter: [@meejah](http://twitter.com/meejah)
+* GitHub: [meejah.github.com](http://mejah.github.com), Twitter: [@meejah](http://twitter.com/meejah)
 
 ---
 
-## Introduce Give a Mile
+## Give a Mile
+*
 
 ---
 
@@ -111,6 +108,8 @@ Live Demo!
 ---
 
 ## Appropriate Hipster Attire (Eric)
+
+*
 
 ---
 
