@@ -31,16 +31,37 @@
 
 ## What do I need to get Started?
 
-IDEs:
+---
 
-* Webstorm
-* Cloud9 IDE (web based)
-* Aptana
+## A browser
+
+---
+
+## Directly in the browser
+
+- [JSFiddle](), [JSBin]()
+- [Cloud9 IDE]()
+- Developer tools
+	- Chrome developer tools
+	- Firebug
+	- Safari Developer
+	- IE
+
+---
+
+## Text editors
+
 * Sublime Text 2
 * TextMate
-* Any other editor you like (VIM, Emacs, Notepad++, etc.)
+* Notepad++
+* VIM, EMacs
 
-Live Demo!
+---
+
+## IDEs
+
+* Webstorm
+* Aptana
 
 ---
 
