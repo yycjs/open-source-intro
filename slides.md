@@ -18,6 +18,18 @@
 
 ---
 
+## Our Sponsors
+
+## Assembly Co-working Space
+
+![Assembly](images/assembly_logo.png)
+
+## Village Brewery
+
+![Village Brewery](images/village_brewery_logo_inverted.png)
+
+---
+
 ## Give a Mile
 
 * Helping grant end of life wishes
@@ -30,18 +42,12 @@
 ## Basic Web Stack
 
 <img src="images/css3logo.png" alt="CSS" style="width: 200px;" style="float: left;" />
-<img src="images/HTML5_Logo_512.png" alt="HTML" style="width: 250px; float: left;" />
-<img src="images/JavaScript-logo.png" alt="JavaScript" style="width: 250px; float: right; margin-top: -5em;" />
+<img src="images/HTML5_Logo_512.png" alt="HTML" style="width: 250px; float: left; margin-top: -7em;" />
+<img src="images/JavaScript-logo.png" alt="JavaScript" style="width: 250px; float: right; margin-top: -7em;" />
 
 ---
 
-## HTML, CSS, JavaScript
-
-![Basic Web Stack](images/basic_web_stack.png)
-
----
-
-## Awesome Mustaches
+## The Essential Hipster Mustache
 
 * As promised, awesome hipster staches
 
@@ -92,7 +98,7 @@ IDEs
 
 ---
 
-## Version Control! (Mike)
+## Version Control
 
 * What?
 * Why? (Even non-devs can use this)
@@ -101,7 +107,19 @@ IDEs
 
 ---
 
-## Github FTW (Mike)
+## Distributed
+
+![Distributed](images/distributed.png)
+
+---
+
+## Centralized
+
+![Centralized](images/centralized.png)
+
+---
+
+## Github FTW
 
 Live Demo!
 
@@ -113,35 +131,36 @@ Live Demo!
 
 ---
 
-## Git for Noobs (Mike or Eric)
+## Git for Noobs
 
 * Github for Mac
 * Github for Windows
 
 ---
 
-## More Developer Focused Git (Mike)
+## Developer Focused Git
 
-* Source Tree (slightly less noobish)
-* Command line (for neckbeards)
-
----
-
-## Fixies (Mike)
-* Maybe a plug for bike bike as well
+* [Source Tree ](http://www.sourcetreeapp.com/) (slightly less noobish)
+* Command line (for fast typers or neckbeards)
 
 ---
 
-## Recap (Eric)
+## Fixies
+
+![Hipster Polo](images/fixie_polo.jpg)
+
+---
+
+## Recap
 
 * We have an idea!
 * We have a text editor!
 * We have source control!
-* Let's build something :-)
+* Ok now let's build something :-)
 
 ---
 
-## HTML 5 (Eric)
+## HTML 5
 
 * It pretty much the same as old HTML!
 * Some new tags (ex. number, email, date)
@@ -150,13 +169,13 @@ Live Demo!
 
 ---
 
-## Appropriate Hipster Attire (Eric)
+## Appropriate Hipster Attire
 
-*
+![Hipster Evolution](images/the-evolution-of-a-hipster.jpg)
 
 ---
 
-## CSS (Eric)
+## CSS
 
 * CSS 3 is the new kid on the block
 * Again some new things but it's still CSS
@@ -164,18 +183,18 @@ Live Demo!
 
 ---
 
-## Twitter Bootstrap (Eric)
+## Twitter Bootstrap
 
-* A CSS Framework
+* A Beautiful CSS Framework
 * Brought easy and pretty UI to developers
-* Support all modern browsers including IE 7+
-* Wrapbootstrap
-* Bootswatch
-* Bootswatchr
+* Support all modern browsers and IE 7+
+* [Wrapbootstrap](https://wrapbootstrap.com/)
+* [Bootswatch](http://bootswatch.com/)
+* [Bootswatcher](http://bootswatcher.com/)
 
 ---
 
-## JavaScript (Dave)
+## JavaScript
 
 <img src="images/JavaScript-logo.png" alt="JavaScript" style="width: 250px; float: left;" />
 
@@ -191,9 +210,6 @@ Live Demo!
 ---
 
 ## The Document Object Model
-
-* It isn't as ominous as it sounds
-* The internal representation of your HTML
 
 ---
 
@@ -231,9 +247,9 @@ __HTML Markup__
 
 ---
 
-## Contributing to Open Source (Dave)
+## Contributing to Open Source
 * Anyone can do it
-*
+* You can easily report issues on Github
 * It can be as minor as fixing typos
 
 ---
