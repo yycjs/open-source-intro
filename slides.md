@@ -26,7 +26,7 @@
 
 ## Village Brewery
 
-![Village Brewery](images/village_brewery_logo.png)
+![Village Brewery](images/village_brewery_logo_inverted.png)
 
 ---
 
@@ -48,30 +48,73 @@
 ---
 
 ## The Essential Hipster Mustache
+
 * As promised, awesome hipster staches
+
+![Hipster Mustaches](images/legit-mustache.jpg)
 
 ---
 
 ## What do I need to get Started?
 
-IDEs:
+---
+
+## A browser
+
+<img src="images/browsers.png" alt="Browsers!" style="margin-top: 7em;" />
+
+---
+
+## Yes really, just a browser
+
+- Online JS tools
+	- [JSFiddle](http://jsfiddle.net/)
+	- [JSBin](http://jsbin.com/)
+	- [Cloud9 IDE](https://c9.io)
+- Developer tools
+	- Google Chrome Dev Tools
+	- Firebug
+	- Safari Developer Tools
+	- Internet Explorer Developer Toolbar
+
+---
+
+## Text editors
+
+<img style="float: right; margin-top: 5em;" src="images/subl2.png" alt="SublimeText 2" />
+
+* [Sublime Text 2](http://www.sublimetext.com)
+* [TextMate](http://macromates.com)
+* [Notepad++](http://notepad-plus-plus.org/)
+* [VIM](http://www.vim.org/), [EMacs](http://www.gnu.org/software/emacs/)
+
+---
+
+## IDEs
 
 * Webstorm
-* Cloud9 IDE (web based)
 * Aptana
-* Sublime Text 2
-* TextMate
-* Any other editor you like (VIM, Emacs, Notepad++, etc.)
-
-Live Demo!
 
 ---
 
 ## Version Control
 
-* What? Why? (Even non-devs can use this)
-* Distributed (SVN) vs. Centralized (Git)
+* What?
+* Why? (Even non-devs can use this)
+* Distributed (Git) vs. Centralized (SVN)
 * Hosted Solutions: Github, Bitbucket, Beanstock, Redmine
+
+---
+
+## Distributed
+
+![Distributed](images/distributed.png)
+
+---
+
+## Centralized
+
+![Centralized](images/centralized.png)
 
 ---
 
@@ -140,12 +183,12 @@ Live Demo!
 
 ## Twitter Bootstrap
 
-* A CSS Framework
+* A Beautiful CSS Framework
 * Brought easy and pretty UI to developers
-* Support all modern browsers including IE 7+
-* Wrapbootstrap
-* Bootswatch
-* Bootswatchr
+* Support all modern browsers and IE 7+
+* [Wrapbootstrap](https://wrapbootstrap.com/)
+* [Bootswatch](http://bootswatch.com/)
+* [Bootswatcher](http://bootswatcher.com/)
 
 ---
 
@@ -157,7 +200,7 @@ Live Demo!
 
 ---
 
-## JavaScript in the browser
+## JavaScript in the Browser
 
 ![Overview](images/overview.png) (put a new image in)
 
