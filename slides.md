@@ -18,6 +18,18 @@
 
 ---
 
+## Our Sponsors
+
+## Assembly Co-working Space
+
+![Assembly](images/assembly_logo.png)
+
+## Village Brewery
+
+![Village Brewery](images/village_brewery_logo.png)
+
+---
+
 ## Give a Mile
 
 * Helping grant end of life wishes
@@ -27,20 +39,20 @@
 
 ---
 
-## Basic Web Stack (Dave)
+## Basic Web Stack
 
-* HTML, CSS, JavaScript, Server
+* HTML, CSS, JavaScript, Media & Server
 
 ![Basic Web Stack](images/basic_web_stack.png)
 
 ---
 
-## Awesome Mustaches (Dave)
+## The Essential Hipster Mustache
 * As promised, awesome hipster staches
 
 ---
 
-## What do I need to get Started? (Dave)
+## What do I need to get Started?
 
 IDEs:
 
@@ -55,7 +67,7 @@ Live Demo!
 
 ---
 
-## Version Control!! (Mike)
+## Version Control
 
 * What? Why? (Even non-devs can use this)
 * Distributed (SVN) vs. Centralized (Git)
@@ -63,7 +75,7 @@ Live Demo!
 
 ---
 
-## Github FTW (Mike)
+## Github FTW
 
 Live Demo!
 
@@ -75,35 +87,35 @@ Live Demo!
 
 ---
 
-## Git for Noobs (Mike or Eric)
+## Git for Noobs
 
 * Github for Mac
 * Github for Windows
 
 ---
 
-## More Developer Focused Git (Mike)
+## Developer Focused Git
 
-* Source Tree (slightly less noobish)
-* Command line (for neckbeards)
+* [Source Tree ](http://www.sourcetreeapp.com/) (slightly less noobish)
+* Command line (for fast typers or neckbeards)
 
 ---
 
-## Fixies (Mike)
+## Fixies
 * Maybe a plug for bike bike as well
 
 ---
 
-## Recap (Eric)
+## Recap
 
 * We have an idea!
 * We have a text editor!
 * We have source control!
-* Let's build something :-)
+* Ok now let's build something :-)
 
 ---
 
-## HTML 5 (Eric)
+## HTML 5
 
 * It pretty much the same as old HTML!
 * Some new tags (ex. number, email, date)
@@ -112,13 +124,13 @@ Live Demo!
 
 ---
 
-## Appropriate Hipster Attire (Eric)
+## Appropriate Hipster Attire
 
 *
 
 ---
 
-## CSS (Eric)
+## CSS
 
 * CSS 3 is the new kid on the block
 * Again some new things but it's still CSS
@@ -126,7 +138,7 @@ Live Demo!
 
 ---
 
-## Twitter Bootstrap (Eric)
+## Twitter Bootstrap
 
 * A CSS Framework
 * Brought easy and pretty UI to developers
@@ -137,7 +149,7 @@ Live Demo!
 
 ---
 
-## JavaScript (Dave)
+## JavaScript
 
 * It is the programming language of the web (and our favourite)
 * This makes your app work and your website fancy!
@@ -145,20 +157,20 @@ Live Demo!
 
 ---
 
-## JavaScript in the browser (Dave)
+## JavaScript in the browser
 
 ![Overview](images/overview.png) (put a new image in)
 
 ---
 
-## The DOM (Dave)
+## The DOM
 
 * It isn't as ominous as it sounds
 * The internal representation of your HTML
 
 ---
 
-## jQuery (Dave)
+## jQuery
 
 * Simplifies DOM manipulation, traversal and event handling
 * AJAX support
@@ -171,7 +183,7 @@ Live Demo!
 
 ---
 
-## jQuery - Example (Dave)
+## jQuery - Example
 
 __jQuery__
 
@@ -192,9 +204,9 @@ __HTML Markup__
 
 ---
 
-## Contributing to Open Source (Dave)
+## Contributing to Open Source
 * Anyone can do it
-*
+* You can easily report issues on Github
 * It can be as minor as fixing typos
 
 ---
