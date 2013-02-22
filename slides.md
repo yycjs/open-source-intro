@@ -19,18 +19,23 @@
 ---
 
 ## Give a Mile
-*
+
+* Helping grant end of life wishes
+* Crowd funding by cash or points donation
+
+![Give a Mile](images/give_a_mile_logo_small.png)
 
 ---
 
 ## Basic Web Stack (Dave)
 
-* HTML, CSS, JavaScript
-
-
 ---
 
 * Diagram
+=======
+* HTML, CSS, JavaScript, Server
+
+![Basic Web Stack](images/basic_web_stack.png)
 
 ---
 
@@ -84,10 +89,11 @@
 
 ---
 
-## Version Control!! (Mike)
+## Version Control! (Mike)
 
-* What? Why? (Even non-devs can use this)
-* Distributed (SVN) vs. Centralized (Git)
+* What?
+* Why? (Even non-devs can use this)
+* Distributed (Git) vs. Centralized (SVN)
 * Hosted Solutions: Github, Bitbucket, Beanstock, Redmine
 
 ---
@@ -196,7 +202,7 @@ Live Demo!
 * Eliminates cross browser differences
 * Plugin mechanism
 * Fully open source (MIT licensed)
-* ~ 32Kb
+* ~ 32Kb in size
 
 ---
 
@@ -212,7 +218,7 @@ __jQuery__
 		});
 	});
 
-__Markup__
+__HTML Markup__
 
 	!html
 	<input type="text" name="your-name" />
@@ -223,12 +229,14 @@ __Markup__
 
 ## Contributing to Open Source (Dave)
 * Anyone can do it
+*
 * It can be as minor as fixing typos
 
 ---
 
 ## Next Month
 
-* Templates, build tools, and more jQuery!
+* Templates
+* Build tools ([GruntJS](http://gruntjs.com))
+* More jQuery!
 
----
