@@ -199,7 +199,8 @@ Live Demo!
 <img src="images/JavaScript-logo.png" alt="JavaScript" style="width: 250px; float: right;" />
 
 * It is the programming language of the web (and our favourite)
-* This makes your app work and your website fancy!
+* This makes your app work!
+* JavaScript > jQuery
 
 ---
 
@@ -210,6 +211,8 @@ Live Demo!
 ---
 
 ## The Document Object Model
+
+<img src="images/dom.jpg" alt="DOM" style="width: 800px;" />
 
 ---
 
@@ -252,6 +255,8 @@ __HTML Markup__
 * Anyone can do it
 * You can easily report issues on Github
 * It can be as minor as fixing typos
+
+<img src="collabocats.jpg" alt="JavaScript" style="width: 250px; float: right;" />
 
 ---
 
