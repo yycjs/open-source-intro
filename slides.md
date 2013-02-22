@@ -145,7 +145,8 @@ Live Demo!
 ---
 
 ## Fixies
-* Maybe a plug for bike bike as well
+
+![Hipster Polo](images/fixie_polo.jpg)
 
 ---
 
@@ -169,7 +170,7 @@ Live Demo!
 
 ## Appropriate Hipster Attire
 
-*
+![Hipster Evolution](images/the-evolution-of-a-hipster.jpg)
 
 ---
 
