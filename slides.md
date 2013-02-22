@@ -14,7 +14,7 @@
 
 ## Mike Warren
 
-* GitHub: [meejah.github.com](http://mejah.github.com), Twitter: [@meejah](http://twitter.com/meejah)
+* GitHub: [github.com/meejah](https://github.com/meejah), Twitter: [@meejah](http://twitter.com/meejah)
 
 ---
 
