@@ -55,10 +55,11 @@ Live Demo!
 
 ---
 
-## Version Control!! (Mike)
+## Version Control! (Mike)
 
-* What? Why? (Even non-devs can use this)
-* Distributed (SVN) vs. Centralized (Git)
+* What?
+* Why? (Even non-devs can use this)
+* Distributed (Git) vs. Centralized (SVN)
 * Hosted Solutions: Github, Bitbucket, Beanstock, Redmine
 
 ---
