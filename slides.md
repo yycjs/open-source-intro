@@ -196,7 +196,7 @@ Live Demo!
 
 ## JavaScript
 
-<img src="images/JavaScript-logo.png" alt="JavaScript" style="width: 250px; float: left;" />
+<img src="images/JavaScript-logo.png" alt="JavaScript" style="width: 250px; float: right;" />
 
 * It is the programming language of the web (and our favourite)
 * This makes your app work and your website fancy!
@@ -248,6 +248,7 @@ __HTML Markup__
 ---
 
 ## Contributing to Open Source
+
 * Anyone can do it
 * You can easily report issues on Github
 * It can be as minor as fixing typos
