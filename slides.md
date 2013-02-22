@@ -45,7 +45,7 @@
 
 * As promised, awesome hipster staches
 
-![Hipster Mustaches](images/legit-mustache.jpg)
+<img src="images/legit-mustache.jpg" alt="Hipster Mustaches" style="width: 400px;" />
 
 ---
 
@@ -177,26 +177,27 @@ Live Demo!
 
 ## JavaScript (Dave)
 
+<img src="images/JavaScript-logo.png" alt="JavaScript" style="width: 250px; float: left;" />
+
 * It is the programming language of the web (and our favourite)
 * This makes your app work and your website fancy!
-*
 
 ---
 
-## JavaScript in the browser (Dave)
+## JavaScript in the browser
 
-![Overview](images/overview.png) (put a new image in)
+![Overview](images/overview.png)
 
 ---
 
-## The DOM (Dave)
+## The Document Object Model
 
 * It isn't as ominous as it sounds
 * The internal representation of your HTML
 
 ---
 
-## jQuery (Dave)
+## jQuery
 
 * Simplifies DOM manipulation, traversal and event handling
 * AJAX support
@@ -209,7 +210,7 @@ Live Demo!
 
 ---
 
-## jQuery - Example (Dave)
+## jQuery - Example
 
 __jQuery__
 
