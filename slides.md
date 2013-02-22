@@ -41,9 +41,9 @@
 
 ## Basic Web Stack
 
-* HTML, CSS, JavaScript, Media & Server
-
-![Basic Web Stack](images/basic_web_stack.png)
+<img src="images/css3logo.png" alt="CSS" style="width: 200px;" style="float: left;" />
+<img src="images/HTML5_Logo_512.png" alt="HTML" style="width: 250px; float: left; margin-top: -7em;" />
+<img src="images/JavaScript-logo.png" alt="JavaScript" style="width: 250px; float: right; margin-top: -7em;" />
 
 ---
 
@@ -55,10 +55,6 @@
 
 ---
 
-## What do I need to get Started?
-
----
-
 ## A browser
 
 <img src="images/browsers.png" alt="Browsers!" style="margin-top: 7em;" />
@@ -67,33 +63,38 @@
 
 ## Yes really, just a browser
 
-- Online JS tools
-	- [JSFiddle](http://jsfiddle.net/)
-	- [JSBin](http://jsbin.com/)
-	- [Cloud9 IDE](https://c9.io)
-- Developer tools
-	- Google Chrome Dev Tools
-	- Firebug
-	- Safari Developer Tools
-	- Internet Explorer Developer Toolbar
+<img style="float: right;" src="images/cloud9ide.png" alt="SublimeText 2" />
+
+Online JS tools
+
+- [JSFiddle](http://jsfiddle.net/)
+- [JSBin](http://jsbin.com/)
+- [Cloud9 IDE](https://c9.io)
+
+Developer tools
+
+- Google Chrome Dev Tools
+- Firebug
+- Safari Developer Tools
+- Internet Explorer Developer Toolbar
 
 ---
 
-## Text editors
+## Developing...
 
-<img style="float: right; margin-top: 5em;" src="images/subl2.png" alt="SublimeText 2" />
+<img style="float: right; margin-top: 5em; margin-right: 5em;" src="images/subl2.png" alt="SublimeText 2" />
+
+Text editors
 
 * [Sublime Text 2](http://www.sublimetext.com)
 * [TextMate](http://macromates.com)
 * [Notepad++](http://notepad-plus-plus.org/)
 * [VIM](http://www.vim.org/), [EMacs](http://www.gnu.org/software/emacs/)
 
----
+IDEs
 
-## IDEs
-
-* Webstorm
-* Aptana
+* [Webstorm](http://www.jetbrains.com/webstorm/) (IntelliJ)
+* [Aptana](http://aptana.com/) (Eclipse)
 
 ---
 
@@ -203,7 +204,7 @@ Live Demo!
 
 ## JavaScript in the Browser
 
-![Overview](images/overview.png) (put a new image in)
+![Basic Web Stack](images/basic_web_stack.png)
 
 ---
 
