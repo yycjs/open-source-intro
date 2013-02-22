@@ -25,13 +25,20 @@
 
 ## Basic Web Stack (Dave)
 
-* HTML, CSS, JavaScript, Server
+* HTML, CSS, JavaScript
+
+
+---
+
 * Diagram
 
 ---
 
-## Awesome Mustaches (Dave)
+## Awesome Mustaches
+
 * As promised, awesome hipster staches
+
+![Hipster Mustaches](images/legit-mustache.jpg)
 
 ---
 
@@ -41,26 +48,32 @@
 
 ## A browser
 
+<img src="images/browsers.png" alt="Browsers!" style="margin-top: 7em;" />
+
 ---
 
-## Directly in the browser
+## Yes really, just a browser
 
-- [JSFiddle](), [JSBin]()
-- [Cloud9 IDE]()
+- Online JS tools
+	- [JSFiddle](http://jsfiddle.net/)
+	- [JSBin](http://jsbin.com/)
+	- [Cloud9 IDE](https://c9.io)
 - Developer tools
-	- Chrome developer tools
+	- Google Chrome Dev Tools
 	- Firebug
-	- Safari Developer
-	- IE
+	- Safari Developer Tools
+	- Internet Explorer Developer Toolbar
 
 ---
 
 ## Text editors
 
-* Sublime Text 2
-* TextMate
-* Notepad++
-* VIM, EMacs
+<img style="float: right; margin-top: 5em;" src="images/subl2.png" alt="SublimeText 2" />
+
+* [Sublime Text 2](http://www.sublimetext.com)
+* [TextMate](http://macromates.com)
+* [Notepad++](http://notepad-plus-plus.org/)
+* [VIM](http://www.vim.org/), [EMacs](http://www.gnu.org/software/emacs/)
 
 ---
 
