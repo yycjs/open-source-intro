@@ -29,29 +29,63 @@
 
 ## Basic Web Stack (Dave)
 
+---
+
+* Diagram
+=======
 * HTML, CSS, JavaScript, Server
 
 ![Basic Web Stack](images/basic_web_stack.png)
 
 ---
 
-## Awesome Mustaches (Dave)
+## Awesome Mustaches
+
 * As promised, awesome hipster staches
+
+![Hipster Mustaches](images/legit-mustache.jpg)
 
 ---
 
 ## What do I need to get Started? (Dave)
 
-IDEs:
+---
+
+## A browser
+
+<img src="images/browsers.png" alt="Browsers!" style="margin-top: 7em;" />
+
+---
+
+## Yes really, just a browser
+
+- Online JS tools
+	- [JSFiddle](http://jsfiddle.net/)
+	- [JSBin](http://jsbin.com/)
+	- [Cloud9 IDE](https://c9.io)
+- Developer tools
+	- Google Chrome Dev Tools
+	- Firebug
+	- Safari Developer Tools
+	- Internet Explorer Developer Toolbar
+
+---
+
+## Text editors
+
+<img style="float: right; margin-top: 5em;" src="images/subl2.png" alt="SublimeText 2" />
+
+* [Sublime Text 2](http://www.sublimetext.com)
+* [TextMate](http://macromates.com)
+* [Notepad++](http://notepad-plus-plus.org/)
+* [VIM](http://www.vim.org/), [EMacs](http://www.gnu.org/software/emacs/)
+
+---
+
+## IDEs
 
 * Webstorm
-* Cloud9 IDE (web based)
 * Aptana
-* Sublime Text 2
-* TextMate
-* Any other editor you like (VIM, Emacs, Notepad++, etc.)
-
-Live Demo!
 
 ---
 
